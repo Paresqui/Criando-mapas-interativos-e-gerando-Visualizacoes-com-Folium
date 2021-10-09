@@ -16,8 +16,8 @@ Projeto desenvolvido em Python e suas principais bibliotecas, Pandas, Plotly, Ma
 
 ## Exemplos de Visualização dos Dados
 
-<p align="left"><img src="./image_02.png" ></p>
+<p align="left"><img src="./img01.png" ></p>
 
-<p align="left"><img src="./image_05.PNG"  width="789">></p>
+<p align="left"><img src="./img02.png"  width="789">></p>
 
-<p align="left"><img src="./image_04.png"  width="789" height="550" ></p>
+<p align="left"><img src="./img03.png"  width="789" height="550" ></p>
