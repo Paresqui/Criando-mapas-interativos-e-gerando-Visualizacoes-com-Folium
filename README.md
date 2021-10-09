@@ -13,4 +13,4 @@ Projeto desenvolvido em Python e suas principais bibliotecas, Pandas, Plotly, Ma
 * **- Importação da base de dados:**  Nessa etapa é onde realizamos a importação da nossa base de dados que será analisada posteriormente.
 * **- Preparação dos dados:** Sabemos que nem todos os dados coletados serão úteis, então é nessa etapa que precisaremos limpá-los. Este processo é onde removemos os registros que são nulos, registros duplicados e erros básicos. A limpeza dos dados é obrigatória antes de enviar as informações para análise.
 * **- Visualização dos Dados:** A visualização dos dados nos ajuda a obter insights valiosos, ajudando a comparar conjuntos de dados e observar relacionamentos. 
-      * **- Calculate market share(step 12)
+
