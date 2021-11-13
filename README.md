@@ -3,7 +3,9 @@
 <p align="center"><img src="./india_banner.png" ></p>
 
 ## Contexto
-Nesse projeto, explorei o dataset contendo os dados do mercado agrícola de Karnataka na Índia durante o ano de 2012. O conjunto de dados contém dados mensais de chegada de commodities do mercado agrícola do estado de Karnataka de todos os APMCs (Comitê de Mercado de Produtos Agrícolas) para o ano de 2012. Dessa forma, criei mapas comuns,  coropléticos e com marcadores personalizados com o auxílio da poderosíssima biblioteca Folium, largamente utilizada para visualização de mapas interativos.
+Nesse projeto, explorei o dataset contendo os dados do mercado agrícola de Karnataka na Índia durante o ano de 2012. O conjunto de dados contém dados mensais de chegada de commodities do mercado agrícola do estado de Karnataka de todos os APMCs (Comitê de Mercado de Produtos Agrícolas) para o ano de 2012. Dessa forma, criei mapas comuns,  coropléticos e com marcadores personalizados com o auxílio da poderosíssima biblioteca Folium, largamente utilizada para visualização de mapas interativos. 
+
+**OBS:** Recomendo abrir o arquivo .ipynb no Jupyter Notebook ou no Google Colab para uma melhor visualização do projeto.
 
 ## Bibliotecas utilizadas
 Projeto desenvolvido em Python e suas principais bibliotecas, Pandas, Plotly, Matplotlib, Seaborn e Folium.
